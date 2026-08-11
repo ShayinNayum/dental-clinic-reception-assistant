@@ -475,7 +475,7 @@ send_button.on_click(send_message)
 header = pn.pane.HTML("""
 <div class="clinic-header">
     <h1>🦷 Bright Smile Dental Clinic</h1>
-    <p>Dental Clinic Reception Assistant · Appointments, enquiries & patient support</p>
+    <p>AI-Powered Dental Reception Assistant · Appointments, enquiries & patient support</p>
 </div>
 """, sizing_mode="stretch_width")
 
